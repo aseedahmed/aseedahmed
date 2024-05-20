@@ -27,8 +27,11 @@ MONTH 20XX -Present
 
 # OUTSIDE INTERESTS/HOBBIES/AWARDS
 I am an athlete and I play soccer a lot
+
 I like to spend time with my family and friends 
+
 I won a science fair in 7th grade 
+
 I won a soccer tournament consisting of 50 teams                              
 
 
