@@ -4,8 +4,11 @@
 8260 Pine Hollow Trl
 Grand Blanc, MI 48439
 810-241-7896
-ahmedelfateh07@gmail.com  
-SKILLS
+ahmedelfateh07@gmail.com
+
+
+
+# SKILLS
 I am a very open minded person with a lot of creativity, I also like to challenge myself and also try my best on any task. I also took a computer science course which helps me a lot with coding and I am pretty familiar with science related topics  
 
 
