@@ -2,9 +2,19 @@
 
 
 8260 Pine Hollow Trl
+
+
 Grand Blanc, MI 48439
+
+
 810-241-7896
+
+
 ahmedelfateh07@gmail.com
+
+instagram: @aseedahmedd
+
+GitHub: @aseedahmed
 
 
 
@@ -12,7 +22,9 @@ ahmedelfateh07@gmail.com
 I am a very open minded person with a lot of creativity, I also like to challenge myself and also try my best on any task. I also took a computer science course which helps me a lot with coding and I am pretty familiar with science related topics  
 
 
+# Technical Skills
 
+I took a computer science course which helps me a lot with coding and technologies such as computers 💻, phones 📱, etc.  
 # EXPERIENCE
 Company Name, Location 
 No prior experience  
