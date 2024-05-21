@@ -64,6 +64,13 @@ I won a soccer tournament consisting of 50 teams
 </p>
 ![image](https://github.com/aseedahmed/aseedahmed/assets/158605748/9f11c21e-ca87-41da-a7d6-7e0950672e8c)
 
+## 🛠 Technology Stack
+* Python, Javascript, Java
+* HTML, CSS
+* GitHub
+* SCORM![image](https://github.com/aseedahmed/aseedahmed/assets/158605748/46e3c657-f6fc-41a4-8be1-c93444b7b7ea)
+
+
 
 
 
