@@ -25,6 +25,8 @@ I am a very open minded person with a lot of creativity, I also like to challeng
 # Technical Skills
 
 I took a computer science course which helps me a lot with coding and technologies such as computers 💻, phones 📱, etc.  
+
+
 # EXPERIENCE
 Company Name, Location 
 No prior experience  
