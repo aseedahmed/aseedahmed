@@ -70,7 +70,7 @@ I won a soccer tournament consisting of 50 teams
 	       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aseedahmed&layout=compact"/>
 	   </a>
 </p>
-![image](https://github.com/aseedahmed/aseedahmed/assets/158605748/9f11c21e-ca87-41da-a7d6-7e0950672e8c)
+
 
 
 
